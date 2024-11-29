@@ -62,5 +62,5 @@ Je suis un développeur passionné par la création de solutions innovantes. Mon
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/votre-nom/votre-nom/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="[https://raw.githubusercontent.com/votre-nom/votre-nom/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)" alt="Contribution Snake" />
 </p>
